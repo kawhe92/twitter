@@ -1,0 +1,59 @@
+.logo-twitter{
+    color: blue;
+    margin-left: 350px;
+}
+.botao-google{
+    border-radius: 50px;
+    height: 30px;
+    width: 300px;
+    margin: 15px;
+    margin-left: 320px;
+    background: white;
+}
+.botao-apple{
+    border-radius: 50px;
+    height: 30px;
+    width: 300px;
+    margin-left: 320px;
+    background: white;
+}
+.titulo-entrar{
+    margin-left: 320px;
+}
+.input-usuario{
+    margin: 15px;
+    width: 300px;
+    height: 45px;
+    margin-left: 320px;
+}
+hr{
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 320px;
+}
+.botao-avancar{
+    margin-left: 320px;
+    border-radius: 50px;
+    width: 300px;
+    color: white;
+    background: black;
+    height: 30px;
+}
+.esqueceu-senha{
+    margin-left: 320px;
+    border-radius: 50px;
+    width: 300px;
+    margin-top: 15px;
+    height: 30px;
+    background: white;
+    color: black;
+}
+body{
+    background: black;
+}
+div{
+    background: white;
+    border-radius: 50px;
+    height: 500px;
+    margin-right: 800px;
+}
